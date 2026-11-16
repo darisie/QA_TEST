@@ -9,6 +9,7 @@ Este repositorio contiene la resolución de la prueba técnica de QA Automation 
 - /performance: Script de pruebas de carga en Apache JMeter.
 - /evidencias: Capturas, reportes y evidencias de bugs.
 - /.github/workflows: Pipeline de GitHub Actions.
+- .env:  Se que no se debe enviar este archivo por motivos de seguridad, pero subo la informacion que contiene solo por motivos de test 
 
 ### 2. Diseño de Casos de Prueba
 Se diseñaron 6 casos atómicos bajo el enfoque BDD (Given/When/Then) y Page Object Model (POM):
